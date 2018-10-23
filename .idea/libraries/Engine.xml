@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UF1/M6_Ficheros/dist/lib/Engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
